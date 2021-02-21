@@ -1,4 +1,4 @@
-# Decision Tree
+# Logistic Regression
 NLP sentiment polarity analyzer with binary logistic regression.
 
 `feature.py` extracts features from raw data and formats training, validation, and test data using the dictionary.

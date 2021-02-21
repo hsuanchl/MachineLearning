@@ -1,7 +1,7 @@
 # Neural Network
 Label images of handwritten letters with Neural Network.
 
-THe objective function is the average cross entropy over the training dataset.
+The objective function is the average cross entropy over the training dataset.
 
 ## Usage
     python neuralnet.py <train input> test input> <train out> <test out> <metrics out> <num epoch> <hidden units> <init flag> <learning rate>
